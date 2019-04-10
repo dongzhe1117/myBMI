@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">myBMI</string>
+    <string name="bmi_hello">Hi~~ BMI</string>
+    <string name="bmi_height">身高 (cm)</string>
+    <string name="bmi_weight">體重 (kg)</string>
+    <string name="bmi_btn">計算BMI值</string>
+    <string name="bmi_result">你的BMI值是</string>
+    <string name="advice_light">你太瘦囉~~</string>
+    <string name="advice_average">不錯喔~~ 繼續保持~~</string>
+    <string name="advice_heavy">母湯喔~~ 你太月半惹！</string>
+    <string name="alert_height">請輸入身高!</string>
+    <string name="alert_weight">請輸入體重!</string>
+    <string name="action_settings">設定</string>
+    <string name="report_title">BMI 報告</string>
+    <string name="report_btn">報告</string>
+    <string name="report_back">前一頁</string>
+    <string name="advice_history">上次結果:</string>
+    <string name="input_empty"></string>
+</resources>

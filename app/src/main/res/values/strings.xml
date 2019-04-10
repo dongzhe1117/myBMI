@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">myBMI</string>
+    <string name="bmi_hello">Hi~~ BMI</string>
+    <string name="bmi_height">HEIGHT (cm)</string>
+    <string name="bmi_weight">WEIGHT (kg)</string>
+    <string name="bmi_btn">Cal BMI</string>
+    <string name="bmi_result">Your BMI is</string>
+    <string name="advice_light">u are too light!</string>
+    <string name="advice_average">so average~~</string>
+    <string name="advice_heavy">No! u are so fat!</string>
+    <string name="alert_height">must keyin Height!</string>
+    <string name="alert_weight">must keyin Weight!</string>
+    <string name="action_settings">setup</string>
+    <string name="report_title">BMI Report</string>
+    <string name="report_btn">Report</string>
+    <string name="report_back">Last Page</string>
+    <string name="advice_history">Last result:</string>
+    <string name="input_empty"></string>
+</resources>
